@@ -1,3 +1,16 @@
+Can I use index.js instead of index.md?
+How can I use PHP instead of javascript?
+
+TODO:
+Learn Pygame executable onto website,
+or: HTML Canvas,
+or: UNDERSTAND how githubio's template work??
+or: Learn how chrome dev tools work?
+TODO:
+pandas, and titanic
+TODO:
+trafficlight system simulation, and data import.
+
 #### PROJECT RUNNING 😄
 1. [ML_public](https://github.com/TeleViaBox/ML_public)
 
