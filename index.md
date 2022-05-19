@@ -1,5 +1,5 @@
 
-<!doctype html>
+<!-- <!doctype html>
 <html>
   <head>
     <title>This is the title of the webpage!</title>
@@ -8,9 +8,9 @@
     <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
   </body>
 </html>
+ -->
 
-
-<!-- Can I use index.js instead of index.md?
+Can I use index.js instead of index.md?
 How can I use PHP instead of javascript?
 
 TODO:
@@ -57,4 +57,4 @@ trafficlight system simulation, and data import.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 
- -->
+
